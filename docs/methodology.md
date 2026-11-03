@@ -31,11 +31,11 @@ The notebook uses three CSV files from the DBLP--ACM benchmark archive:
 
 The source publication files contain the following fields:
 
--   `id`: Source record identifier.
--   `title`: Publication title.
--   `authors`: Publication authors.
--   `venue`: Publication venue.
--   `year`: Publication year.
+-   `id`: Source record identifier
+-   `title`: Publication title
+-   `authors`: Publication authors
+-   `venue`: Publication venue
+-   `year`: Publication year
 
 The notebook loads the DBLP and ACM source records for matching. The
 perfect-mapping file is used to evaluate predicted matches rather than
