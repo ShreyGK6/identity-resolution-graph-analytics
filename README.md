@@ -120,6 +120,10 @@ dblp-acm-identity-resolution/
 │   └── DBLP_ACM_Identity_Resolution_Report.html
 ├── docs/
 │   └── methodology.md
+├── data/
+│   └── ACM.csv
+    └── DBLP-ACM_perfectMapping.csv
+    └── DBLP2.csv
 ├── requirements.txt
 ```
 
