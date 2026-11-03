@@ -46,6 +46,18 @@ The three files provide:
 
 The dataset is accessed through Snowflake rather than committed to this repository.
 
+## Dataset Attribution
+
+This project uses the DBLP-ACM benchmark dataset originally provided by the Database Group at Leipzig University.
+
+The dataset contains bibliographic publication records from DBLP and ACM, along with a ground-truth mapping file used to evaluate entity resolution results.
+
+**Original source:** [Benchmark Datasets for Entity Resolution – Leipzig University](https://dbs.uni-leipzig.de/index.php/research/projects/benchmark-datasets-for-entity-resolution)
+
+The dataset is made available under a Creative Commons license. Please refer to the original source for licensing information and cite the associated VLDB 2010 publication.
+
+The dataset is used for educational and research purposes in this project.
+
 ## Project Architecture
 
 1. **Data Ingestion:** Upload the ZIP archive to a Snowflake internal stage.
