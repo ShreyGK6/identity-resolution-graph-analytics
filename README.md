@@ -106,14 +106,9 @@ dblp-acm-identity-resolution/
 │   └── DBLP_ACM_Identity_Resolution.ipynb
 ├── reports/
 │   └── DBLP_ACM_Identity_Resolution_Report.html
-├── sql/
-│   └── snowflake_setup.sql
 ├── docs/
 │   └── methodology.md
-├── images/
 ├── requirements.txt
-├── .gitignore
-└── LICENSE
 ```
 
 ## Setup and Execution
